@@ -1,0 +1,90 @@
+Links a se seguir na iniciaalização:
+
+1-) Janela [01] do Navegador Edge: 
+>> Total de Abas: (2)
+- Link [01]: https://mail.google.com/mail/u/0/#inbox
+- Link [02]: http://nfe.sefaz.ba.gov.br/servicos/nfce/Modulos/Geral/NFCEC_consulta_chave_acesso.aspx
+- Link [03]:
+- Link [04]:
+- Link [05]:
+- Link [06]:
+
+
+2-) Janela [02] do Navegador Edge: 
+>> Total de Abas: (5)
+- Link [01]: https://platform.senior.com.br/senior-x/#/Gest%C3%A3o%20de%20Pessoas%20%7C%20HCM/1/res:%2F%2Fsenior.com.br%2Fhcm%2Fpontomobile%2FclockingEvent?category=frame&link=https:%2F%2Fplatform.senior.com.br%2Fhcm-pontomobile%2Fhcm%2Fpontomobile%2F%23%2Fclocking-event&withCredentials=true&r=0
+- Link [02]: https://www.santander.com.br/?segmento=especial
+- Link [03]: https://www2.bancobrasil.com.br/aapf/login.html?1705357612566#/acesso-aapf-agencia-conta
+- Link [04]: https://portal.ifba.edu.br/menu-de-apoio/processos-seletivos/tecnico-administrativo/efetivo/2022/convocacoes
+- Link [05]: https://link.institutoaocp.org.br/portal-candidato-publico/formulario-inscricao/index.jsp?concurso=594
+- Link [06]:
+
+
+3-) Janela [03] do Navegador Edge: 
+>> Total de Abas: (2)
+- Link [01]: https://outlook.office.com/mail/sentitems/id/AAMkADU3ZWFmY2UyLThiNjYtNDdjNS04OWFlLTEwMmIxN2VlOTIzOQBGAAAAAAALgDZa7RIlQoMmHu%2BJ%2BWboBwCiofV9tF31ToZdHsdM2Z%2BzAAAAAAEJAACiofV9tF31ToZdHsdM2Z%2BzAAbYMgaZAAA%3D?cc=eyJhY2Nlc3NfdG9rZW4iOnsibmJmIjp7ImVzc2VudGlhbCI6dHJ1ZSwidmFsdWUiOiIxNjk1OTcyMzA4In0sInhtc19jYyI6eyJ2YWx1ZXMiOlsiQ1AxIl19fSwiaWRfdG9rZW4iOnsibmJmIjp7ImVzc2VudGlhbCI6dHJ1ZSwidmFsdWUiOiIxNjk1OTcyMzA4In0sInhtc19jYyI6eyJ2YWx1ZXMiOlsiQ1AxIl19fX0
+- Link [02]: https://translate.google.com/?sl=auto&tl=pt&text=Community%0AHandbook%0AGateways%0APresenters%0AAdapters%0AStakeholderes%0AFlow%0ADevice%0ABroadcast%0AEnterprise%0AEvent%20Driven%0AClean%20Code%3A%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship.%20Stakeholders%20Devices%20Presenters%20Community%20Management%20Enterprise%0AEvente%20Broker%0ABinding%20key%0AFanout%20%0AWildcards%0AServerless%0AStateless%0ABenchmarck%20Drive%0AQueue%0AExChange&op=translate
+- Link [03]:
+- Link [04]:
+- Link [05]:
+- Link [06]:
+
+
+4-) Janela [04] do Navegador Edge: 
+>> Total de Abas: (5)
+- Link [01]: https://on.fiap.com.br/index.php
+- Link [02]: https://discord.com/channels/1067198204938047539/1070781180280049774
+- Link [03]: https://github.com/oreisjuniorfilho
+- Link [04]: https://dev.azure.com/oreis0717/oreis-projeto01-posfiap/_settings/buildqueue?_a=concurrentJobs
+- Link [05]: https://dev.azure.com/oreis0717/oreis-projeto01-posfiap/_git/AspnJwt_RefreshToken?path=%2FAspnJwt_RefreshToken%2Fappsettings.json
+- Link [06]:
+
+
+5-) Janela [05] do Navegador Edge: 
+>> Total de Abas: (5)
+- Link [01]: https://www.udemy.com/join/login-popup/?next=/course/programador-net-do-zero-ao-profissional-com-a-linguagem-c/learn/lecture/35522312#questions
+- Link [02]: https://www.macoratti.net/11/07/ioc_di1.htm
+- Link [03]: https://tiago.blog.br/heidisql-trabalho-rapido-com-mysql/#google_vignette
+- Link [04]: https://dev.to/lucaspsilveira/testes-unitarios-em-net-core-utilizando-xunit-45gc
+- Link [05]: https://macoratti.net/15/08/net_mock2.htm
+- Link [06]:
+
+
+6-) Janela [06] do Navegador Edge: 
+>> Total de Abas: (5)
+- Link [01]: https://macoratti.net/22/08/aspc_rabbitmq2.htm
+- Link [02]: https://lucas-eschechola.medium.com/construindo-apis-restful-com-net-core-usando-entity-framework-e-jwt-parte-ii-5e415cd2f6e0
+- Link [03]: https://www.macoratti.net/17/04/aspcore_webapi2.htm
+- Link [04]: https://www.macoratti.net/16/06/webapi_cons1.htm
+- Link [05]: https://www.macoratti.net/20/08/efc_migration1.htm
+- Link [06]:
+
+
+7-) Janela [07] do Navegador Edge: 
+>> Total de Abas: (6)
+- Link [01]: https://www.extra.com.br/torre-de-som-lg-xboom-rnc9-com-bluetooth-karaoke-entradas-de-microfone-guitarra-e-alto-falantes-duplos/p/55061721#pagination%2010
+- Link [02]: https://www.extra.com.br/caixa-de-som-portatil-jbl-boombox-3-preto-com-bluetooth-e-a-prova-d-agua-180w-55065283/p/55065283?utm_medium=cpc&utm_source=GP_PLA&IdSku=55065283&idLojista=15&tipoLojista=1P&&utm_campaign=gg_pmax_longtail_tech&gad_source=1&gclid=Cj0KCQiAwP6sBhDAARIsAPfK_wakAecuDheSd5JdzympPa3fQ3peq0aRHtB9Qs2-xDYKVYasz4V0kzMaAs-GEALw_wcB&gclsrc=aw.ds
+- Link [03]: https://www.americanas.com.br/produto/7468203573/caixa-de-som-boombox-aiwa-bluetooth-3-vias-ip66-aws-bbs-01b?pfm_carac=voc%C3%AA%20tamb%C3%A9m%20pode%20gostar%20disso&pfm_index=5&pfm_page=product&pfm_pos=item_page.rr1&pfm_type=vit_recommendation&DCSext.recom=RR_item_page.rr1-mars_ClickCPSemVisita%3AP%3A48%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_high_ads%3Atestab%3DsingleStrategy&nm_origem=rec_item_page.rr1-mars_ClickCPSemVisita%3AP%3A48%3A%3Aads%3Dtrue%3AorderAdsTest%3Dmotor_high_ads%3Atestab%3DsingleStrategy&nm_ranking_rec=5&offerId=655e5bb5cc55309385f4aef9&cor=Preto&voltagem=Biv&condition=NEW
+- Link [04]: https://www.extra.com.br/caixa-de-som-boombox-aiwa-bluetooth-3-vias-ip66-aws-bbs-01b/p/1561809155?utm_source=GP_PLA&utm_medium=cpc&utm_campaign=gg_pmax_longtail_tech
+- Link [05]: https://meuspedidos.extra.com.br/detalhes/405517834
+- Link [06]: https://meuspedidos.extra.com.br/detalhes/407502947
+
+
+8-) Janela [08] do Navegador Edge: 
+>> Total de Abas: ()
+- Link [01]:
+- Link [02]:
+- Link [03]:
+- Link [04]:
+- Link [05]:
+- Link [06]:
+
+
+9-) Janela [09] do Navegador Edge: 
+>> Total de Abas: ()
+- Link [01]:
+- Link [02]:
+- Link [03]:
+- Link [04]:
+- Link [05]:
+- Link [06]:
